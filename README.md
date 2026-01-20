@@ -2,6 +2,8 @@
 
 **SecLite** adalah *Lightweight Network Security Scanner* berbasis Python yang digunakan untuk melakukan **port scanning**, **service enumeration**, dan **deteksi kerentanan dasar** menggunakan Nmap dan Scapy.
 
+<img width="822" height="366" alt="Screenshot (1085)" src="https://github.com/user-attachments/assets/c21b17da-3a7b-4a32-9bcd-a969e8e2172c" />
+
 > ⚠️ **Peringatan**: Gunakan tool ini **hanya pada jaringan milik sendiri atau dengan izin resmi**.
 
 ---
